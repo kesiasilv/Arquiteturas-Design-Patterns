@@ -1,0 +1,63 @@
+# =========================
+# Xcode / Swift Projects
+# =========================
+
+# User settings
+xcuserdata/
+*.xcuserstate
+
+# Build products
+build/
+DerivedData/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+Package.resolved
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Archives
+*.xcarchive
+
+# Temporary files
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE helpers
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.*
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Other
+*.orig
+*.mode1v3
+*.mode2v3
+*.perspectivev3
