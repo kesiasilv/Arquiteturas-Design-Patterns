@@ -7,8 +7,7 @@ Repositório dedicado ao estudo e implementação prática de **arquiteturas de 
 | Tema | Tipo | Descrição |
 |------|------|-----------|
 | 🧠 Delegate Pattern | Design Pattern | Exemplo simples demonstrando o uso do padrão Delegate para comunicação entre objetos. |
-
-<!-- | 🔁 Observer Pattern | Design Pattern | Implementação do padrão Observer para reagir a mudanças de estado de forma reativa.| -->
+| 🔁 Observer Pattern | Design Pattern | Implementação do padrão Observer para reagir a mudanças de estado de forma reativa.|
 
 > *(Novos projetos serão adicionados conforme o progresso dos estudos.)*
 
