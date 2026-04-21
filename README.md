@@ -13,7 +13,7 @@ Repositório dedicado ao estudo e implementação prática de **arquiteturas de 
 
 ---
 
-## 🏗️ Tópicos de Estudo Futuros
+## 🏗️ Tópicos de Estudo 
 
 ### 🧱 Arquiteturas de Software
 - MVC (Model-View-Controller)  
